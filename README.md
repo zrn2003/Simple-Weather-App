@@ -12,7 +12,7 @@ A lightweight Python weather application that provides real-time weather informa
 
 ## Screenshot
 
-![Weather App Screenshot](Screenshot.png)
+!(screenshot.png)
 
 ## Requirements
 
