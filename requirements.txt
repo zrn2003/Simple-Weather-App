@@ -1,3 +1,4 @@
 #requirement for the app
 requests==2.31.0
+#we are also using the message box from tkinter for better understanding & messagebox
 tkinter==8.6
