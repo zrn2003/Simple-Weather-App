@@ -1,1 +1,3 @@
+#requirement for the app
 requests==2.31.0
+tkinter==8.6
